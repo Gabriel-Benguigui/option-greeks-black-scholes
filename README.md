@@ -1,6 +1,6 @@
 # Option Pricing & Greeks - Black-Scholes Model
 
-Ce script calcule le prix des options européennes (Call/Put) à l'aide du modèle de Black-Scholes, affiche les "Greeks" (Delta, Gamma, Vega, Theta), et génère un graphique interactif du payoff.
+Ce script calcule le prix des options européennes (Call/Put) à l'aide du modèle de Black-Scholes, affiche les "Greeks" (Delta, Gamma, Vega, Theta), et génère un graphique du payoff.
 
 ## Comment l’utiliser
 
