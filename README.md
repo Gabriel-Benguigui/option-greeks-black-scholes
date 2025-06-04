@@ -12,3 +12,6 @@ Puis, lancez le script :
 
    python3 black_scholes.py
    
+Pour le tester Via google collab : 
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-Benguigui/option-greeks-black-scholes/blob/main/option_black_scholes_colab.ipynb)
